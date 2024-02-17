@@ -1,0 +1,29 @@
+.heading {
+    font-size: 23px;
+    width: 100%;
+    margin: 0px;
+}
+
+#status,
+#n_o_b {
+    font-size: 18px;
+}
+
+body {
+    background-size: cover;
+    background-position: center;
+}
+
+canvas {
+    box-shadow: 10px 10px 10px grey;
+    border-radius: 20px;
+    margin-top: 30px;
+}
+
+.btn-success {
+    margin: 20px;
+    padding: 10px;
+    width: 40%;
+    font-size: 25px;
+    border-radius: 20px;
+}
